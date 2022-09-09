@@ -2,7 +2,7 @@
 
 Marpit theme for UESTC, generate fancy PPT based on Markdown conveniently.
 
-You can find PDF, HTML examples and PPT designs in the `/res` folder.
+You can find PPT designs and PPT, PDF, HTML examples in the `/res` folder which is generated based on `src/example.md`.
 
 # Usage
 
@@ -15,7 +15,7 @@ You can find PDF, HTML examples and PPT designs in the `/res` folder.
    - windows：`ctrl + shift + v`
    - mac: `command + shift + v`
 
-4. Export `slide.md` as PDF or HTML
+4. Export `slide.md` as PPT, PDF or HTML
 
    - windows: `ctrl + shift + p`
    - mac: `command + shift + p`
