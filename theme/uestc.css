@@ -1,0 +1,55 @@
+/* @theme uestc */
+@import "gaia";
+section {
+  background-image: url("img/bg.png"),
+    url("https://happytsing-figure-bed.oss-cn-hangzhou.aliyuncs.com/uestc_marp/bg.png");
+  background-size: cover;
+  position: absolute;
+  font-family: "Times New Roman", "Microsoft Yahei", "Lato", "Avenir Next",
+    "Avenir", "Trebuchet MS", "Segoe UI", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  color: #004098;
+  margin-left: 60px;
+  margin-top: -46px !important;
+}
+h2 {
+  font-size: 40px;
+  margin-top: 30px;
+}
+h3 {
+  font-size: 30px;
+  margin-top: 20px;
+}
+p {
+  font-size: 25px;
+}
+li {
+  font-size: 30px;
+  text-align: left;
+}
+a {
+  font-size: 25px;
+  font-family: "Roboto Condensed", sans-serif;
+  /* text-decoration:none; */
+  /* border-bottom:1px solid; */
+  padding: 3px;
+  color: #004098;
+}
+table {
+  text-align: center;
+  font-size: 30px;
+}
+td {
+  background: white !important;
+  border-color: #8faadc !important;
+}
+th {
+  color: white !important;
+  background: #004099 !important;
+}
+figure {
+  margin-top: 100px !important;
+}
