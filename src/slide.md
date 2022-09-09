@@ -4,6 +4,7 @@ theme: uestc
 # 显示页码，首页不显示
 paginate: true
 _paginate: false
+math: katex
 ---
 
 <style scoped>h1{font-size:75px;color:white;margin:0!important;}</style>
