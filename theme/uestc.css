@@ -1,7 +1,7 @@
 /* @theme uestc */
 @import "gaia";
 section {
-  background-image: url("img/bg.png"),
+  background-image: url("../img/bg.png"),
     url("https://happytsing-figure-bed.oss-cn-hangzhou.aliyuncs.com/uestc_marp/bg.png");
   background-size: cover;
   position: absolute;
